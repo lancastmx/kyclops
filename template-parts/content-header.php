@@ -16,7 +16,7 @@
                         )
                     ); ?>
             </div>
-            <div class="encabezado__cart col-5 col-md-2">
+            <div class="encabezado__cart col-5 col-md-3">
                 <a href="<?php echo home_url("sign-in");?>" class="encabezado_sign-in">
                     <?php do_action("plz_signin"); ?>
                 </a>
