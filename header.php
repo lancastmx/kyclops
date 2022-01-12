@@ -14,7 +14,7 @@
     <header class="encabezado">
         <div class="container-fluid gx-5 py-3">
             <div class="row">
-                <div class="encabezado__hamburguesa col-2">
+                <div class="encabezado__hamburguesa col-2 col-md-2 px-2 px-md-4">
                     <a href="#">
                         <img src="<?php echo get_template_directory_uri()?>/assets/img/icon-menu.svg" alt="menu icon">
                     </a>
